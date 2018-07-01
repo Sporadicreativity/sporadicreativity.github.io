@@ -11,9 +11,9 @@
     background-position: center
     background-image: url(../img/#{$avatar-path})
     +size(200px)
-    +order(3)
+    
 
-  [class^="icon-"]
+  [class^="material-icons-"]
     +size(100px)
     background: $bgcolor
     border-radius: 50%
@@ -21,14 +21,7 @@
     path
       fill: $accent
 
-    &.icon-pencil
-      +order(1)
-    &.icon-mouse
-      +order(2)
-    &.icon-browser
-      +order(4)
-    &.icon-video
-      +order(5)
+
 
 @media screen and (max-width: 650px)
   .face-lockup
