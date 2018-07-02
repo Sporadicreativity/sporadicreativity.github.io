@@ -567,7 +567,7 @@ body {
 /* Basic Styles
  * ------------------------------------	 */
 body {
-  background: #ffffff;
+  background: #ffe9c9;
   font-size: 14px;
   line-height: 1.6;
   font-family: "Open Sans", sans-serif;
@@ -804,12 +804,6 @@ footer {
   display: block; }
 
 #proj-6:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-6 {
-  display: block; }
-
-#proj-7:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-7 {
-  display: block; }
-
-#proj-8:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-8 {
   display: block; }
 
 .return {
