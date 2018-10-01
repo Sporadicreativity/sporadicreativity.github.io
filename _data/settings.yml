@@ -52,9 +52,6 @@ projects:
 - {name: Tune Your Escape, folder: 'proj-5', file: 'work/proj-5.html'}
 - {name: Wild Beauty, folder: 'proj-6', file: 'work/proj-6.html'}
 
-
-
-
 # Contact Section
 
 social:
@@ -64,7 +61,3 @@ social:
 - {icon: 'google-plus', link: 'https://plus.google.com/u/2/101957495897194089403'}
 - {icon: 'linkedin', link: ''}
 - {icon: 'github', link: 'https://github.com/Sporadicreativity'}
-
-
-
-# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
